@@ -68,4 +68,11 @@ eng.traineddata
 .DS_Store
 
 # TypeScript output
-dist/
+src/
+test/
+CHANGELOG.md
+example.js
+jest.config.js
+tsconfig.base.json
+yarn.lock
+dist/tsconfig.tsbuildinfo
