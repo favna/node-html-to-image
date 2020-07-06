@@ -69,7 +69,7 @@ eng.traineddata
 
 # TypeScript output
 src/
-test/
+tests/
 CHANGELOG.md
 example.js
 jest.config.js
